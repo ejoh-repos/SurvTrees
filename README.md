@@ -36,6 +36,6 @@ source("pecRpart_fun")
 
 # License
 ```{r}
-Licensed under the GNU General Public License v2.0 (GPL-2.0);
+Licensed under the GNU General Public License v3.0 (GPL-3.0);
 you may not use this file except in compliance with the License.
 ```
