@@ -1,10 +1,7 @@
 # Risk Stratification Using Tree-Based Models for Recurrence-Free Survival in Breast Cancer
-This is the work for developing tree-based machine learning models for survival outcomes. The paper is currently under review.
-```{r}
-Oh, E. J., Alfano, C. M., Esteva, F. J., Baron, P. L., Xiong, W., Brooke, T. E., Chen, E. I.,
-and Chiuzan, C. (2024+). Risk stratification using tree-based models for recurrence-free survival in
-breast cancer.
-```
+The goal of this project is to develop tree-based machine learning models for survival outcomes in breast cancer. The full manuscript is available in:
+
+* __Oh, E. J.,__ Alfano, C. M., Esteva, F. J., Baron, P. L., Xiong, W., Brooke, T. E., Chen, E. I., and  Chiuzan, C. (2025). Risk stratification using tree-based models for recurrence-free survival in breast cancer. _JCO Oncology Advances_, 2, e2400011. [[pdf]](https://ascopubs.org/doi/pdfdirect/10.1200/OA.24.00011)
 
 # Files in this repository
 The source code is currently provided in 'main_sourecode.R'
